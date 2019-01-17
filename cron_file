@@ -1,0 +1,4 @@
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+30 1 * * * root /usr/bin/ansible-playbook /var/www/backup/simple_backup-playbook.yml
