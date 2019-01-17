@@ -2,7 +2,8 @@
 
 #### For Ubuntu 16.04 and MySQL
 
-Simple folder archive keeping 5 versions of files:
+Simple folder and database archive keeping 5 versions of files:
+
   - Install Ansible (2.5+)
   -- `sudo apt-add-repository ppa:ansible/ansible`
   -- `sudo apt install ansible`
